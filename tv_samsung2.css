@@ -1,0 +1,96 @@
+table{
+    border: 0px solid black;
+    border-spacing: 15px;
+}
+
+th,td{
+    box-shadow: gray 2px 2px;
+}
+
+.obrazek{
+    text-align: center;
+}
+
+.text1{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: plum;
+    border: 0px;
+}
+
+.text2{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: rgb(229, 166, 182);
+    border: 0px;
+}
+ 
+.text3{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: rgb(231, 207, 175);
+    border: 0px;
+}
+
+.text4{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: rgb(216, 187, 124);
+    border: 0px;
+}
+
+.text5{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: rgb(112, 137, 221);
+    border: 0px;
+}
+
+.text6{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: rgb(226, 119, 133);
+    border: 0px;
+}
+
+.text7{
+    padding:45px;
+    display: list-item;
+    list-style: disc inside;
+    background-color: cyan;
+    border: 0px;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+.test{
+    padding: 40px;
+    color: white;
+    background-color: #3a3a3a;
+    border-color: grey;
+    border-width: 100%;
+    font-size: 50px;
+}
+
+
+.Cena{
+    padding: 40px;
+    color: white;
+    background-color: #3a3a3a;
+    border-color: grey;
+    border-width: 100%;
+    font-size: 50px;
+}
+/*color: white;
+text-align: center;
+font-size: 50px;
+background-color:#3a3a3a ;
+border: white;*/
