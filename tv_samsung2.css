@@ -11,63 +11,44 @@ th,td{
     text-align: center;
 }
 
-.text1{
+.text{
     padding:45px;
     display: list-item;
     list-style: disc inside;
-    background-color: plum;
     border: 0px;
 }
 
-.text2{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
+table tbody tr:nth-child(3) td {
+    background-color: plum;
+}
+
+table tbody tr:nth-child(4) td {
     background-color: rgb(229, 166, 182);
-    border: 0px;
+}
+
+table tbody tr:nth-child(5) td {
+    background-color: rgb(231, 207, 175);
 }
  
-.text3{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
-    background-color: rgb(231, 207, 175);
-    border: 0px;
-}
-
-.text4{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
+table tbody tr:nth-child(6) td {
     background-color: rgb(216, 187, 124);
-    border: 0px;
+    
 }
 
-.text5{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
+table tbody tr:nth-child(7) td {
     background-color: rgb(112, 137, 221);
-    border: 0px;
 }
 
-.text6{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
+table tbody tr:nth-child(8) td{
     background-color: rgb(226, 119, 133);
-    border: 0px;
+
 }
 
-.text7{
-    padding:45px;
-    display: list-item;
-    list-style: disc inside;
+table tbody tr:nth-child(9) td{
     background-color: cyan;
-    border: 0px;
 }
-
-th,td{
+    */
+    th,td{
     border: 1px solid black;
 }
 
@@ -89,8 +70,3 @@ th,td{
     border-width: 100%;
     font-size: 50px;
 }
-/*color: white;
-text-align: center;
-font-size: 50px;
-background-color:#3a3a3a ;
-border: white;*/
