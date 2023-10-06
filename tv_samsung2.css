@@ -47,8 +47,8 @@ table tbody tr:nth-child(8) td{
 table tbody tr:nth-child(9) td{
     background-color: cyan;
 }
-    */
-    th,td{
+
+th,td{
     border: 1px solid black;
 }
 
