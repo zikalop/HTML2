@@ -1,20 +1,20 @@
 table{
-    border: 0px solid black;
     border-spacing: 15px;
 }
 
 th,td{
-    box-shadow: gray 2px 2px;
+    box-shadow: rgb(151, 146, 146) 2px 2px;
 }
 
 .obrazek{
     text-align: center;
+    border: 1px solid black;
 }
 
 .text{
     padding:45px;
     display: list-item;
-    list-style: disc inside;
+    list-style: square inside;
     border: 0px;
 }
 
@@ -48,9 +48,6 @@ table tbody tr:nth-child(9) td{
     background-color: cyan;
 }
 
-th,td{
-    border: 1px solid black;
-}
 
 .test{
     padding: 40px;
