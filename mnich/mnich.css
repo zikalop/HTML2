@@ -1,5 +1,6 @@
 .den{
     text-align: center;
+    padding: 5px;
 }
 .nadpisy{
     text-align: center;
@@ -7,4 +8,8 @@
 table{
     margin-left: auto;
     margin-right: auto;
+    border-spacing: 0px;
+}
+th,td{
+    border: 1px solid black;
 }
