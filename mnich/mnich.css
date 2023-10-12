@@ -1,6 +1,7 @@
 .den{
     text-align: center;
     padding: 5px;
+    border: 1px solid black;
 }
 .nadpisy{
     text-align: center;
@@ -10,6 +11,79 @@ table{
     margin-right: auto;
     border-spacing: 0px;
 }
-th,td{
+.polevka{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.nic{
     border: 1px solid black;
+}
+.syr{
+    border-bottom: 1px solid black;
+}
+.syr2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.minutky{
+    border-bottom: 1px solid black;
+}
+.minutky2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.rizek{
+    border-bottom: 1px solid black;
+}
+.rizek2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cici{
+    border-bottom: 1px solid black;
+}
+.cislo1{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cislo2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.cislo3{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.nic{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.nic2{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.patdva{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.frank{
+    border-bottom: 1px solid black;
+}
+.kure{
+    border-bottom: 1px solid black;
+}
+.rizo{
+    border-bottom: 1px solid black;
+}
+.hlav{
+    border-bottom: 1px solid black;
 }
