@@ -3,6 +3,18 @@
     color:blueviolet;
     text-transform: uppercase;
 }
+.header{
+    background-color:white;
+
+}
 *{
     box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    width: 80%;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
 }
