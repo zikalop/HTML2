@@ -18,3 +18,10 @@ ul li{
     list-style: none;
     display: inline-block;
 }
+.obr{
+    float: left;
+    margin: 30px;
+}
+p{
+    clear: right;
+}
