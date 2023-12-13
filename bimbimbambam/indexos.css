@@ -19,6 +19,9 @@ ul li{
 p{
     clear: right;
 }
+h1{
+    font-style: italic;
+}
 *{
     box-sizing: border-box;
 }
