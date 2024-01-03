@@ -1,0 +1,10 @@
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+body{   
+    margin: 0 auto;
+}
+*{
+    box-sizing: border-box;
+}
