@@ -7,9 +7,12 @@ body{
     margin: 0 auto;
     width: 80%;
 }
+ul{
+    padding-left: 0px;
+}
 ul li{
     list-style: none;
-    display: inline-block;
+    display: inline-block;  
     text-transform: capitalize;
 }
 .obr{
