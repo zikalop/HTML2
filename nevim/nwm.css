@@ -2,13 +2,15 @@ ul li{
     list-style: none;
     display: inline-block;
 }
-body{   
-    margin: 0 auto;
+ul{
+    padding: 16px;
+    margin: 0px;
+    text-align: center;
+    background-color: grey;
+}
+li a{
+    color: white;
 }
 *{
     box-sizing: border-box;
-}
-.bim{
-    list-style: none;
-    display: inline-block;
 }
