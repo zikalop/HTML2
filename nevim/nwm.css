@@ -1,4 +1,4 @@
-nav ul li{
+ul li{
     list-style: none;
     display: inline-block;
 }
@@ -7,4 +7,8 @@ body{
 }
 *{
     box-sizing: border-box;
+}
+.bim{
+    list-style: none;
+    display: inline-block;
 }
