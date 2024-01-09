@@ -3,14 +3,25 @@ ul li{
     display: inline-block;
 }
 ul{
-    padding: 16px;
-    margin: 0px;
+    padding: 25px;
+    margin: -8px;
     text-align: center;
     background-color: grey;
 }
 li a{
     color: white;
+    text-transform: capitalize;
+    padding: 25px;
+    border-radius: 5px;
+    margin: 0 10px;
+    border-color:white;
+    border: 1px;
 }
 *{
     box-sizing: border-box;
+    font-family: Arial;
 }
+#menu a:hover{
+    background-color: #555;
+}
+
