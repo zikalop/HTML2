@@ -1,21 +1,17 @@
-ul li{
-    list-style: none;
-    display: inline-block;
-}
-ul{
-    padding: 25px;
-    margin: -8px;
+a{
     text-align: center;
     background-color: grey;
-}
-li a{
     color: white;
     text-transform: capitalize;
     padding: 25px;
-    border-radius: 5px;
-    margin: 0 10px;
     border-color:white;
     border: 1px;
+    text-decoration: none;
+    display: inline-block;
+}
+div{
+    text-align: center;
+    background-color: gray;
 }
 *{
     box-sizing: border-box;
@@ -24,4 +20,7 @@ li a{
 #menu a:hover{
     background-color: #555;
 }
-
+body{
+    margin: 0px;
+    padding: 0px;
+}
