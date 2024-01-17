@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: arial;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    background-color: rgb(37, 37, 37);
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    padding: 25px;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.o{
+    text-align: right;
+}
+.menu li:hover{
+    background-color: green;
+}
