@@ -1,9 +1,18 @@
-.trC{
-    text-align: center;
-    clear: left;
-}
 .KObraz{
-    float: right;
     max-width: 500px;
+    max-height: 350px;
     height: auto;
+    position: static;
+    float: left;
+    /*padding-left: 105.383px;*/
 }
+img{
+    max-width: 150px;
+    max-height: 150px;
+}
+.soc{
+    text-align: center;
+}
+/*.n1{
+    padding-left: 529px;
+}*/
