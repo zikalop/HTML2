@@ -1,50 +1,8 @@
-*{
-    text-transform: capitalize;
-    color: white;
-    font-family: sans-serif;
-}
-nav{
-    background-color:gray;
-    font-size: 26px;
-}
-nav ul{
-    display: flex;
-    flex-direction: row;
-    margin: 0 auto;
-    padding: 0; 
-    
-}
-li{
-    list-style: none;
-    flex: auto;
-    text-align: center;
-    padding: 5px;
-}
-a{
-    text-decoration: none;  
-}
-nav ul li:hover{
-    background-color:green;
-}
-h1{
-    background-color:gray;
-    text-align: center;
-    margin: 0 auto;
-    padding: 10px;
-    font-size: 60px;
-}
-h2{
+.h2Onas{
     font-size: 40px;
-    padding:0;
+    text-align: center;
+}.textOnas{
     margin: 0;
-    margin-top: 30px;
-}
-.text{
-    margin: 0;
-}
-
-body{
-    background-color: black;
-    margin: 0 auto;
-    padding: 0 auto;
+    text-align: left;
+    padding-left: 10px;
 }
