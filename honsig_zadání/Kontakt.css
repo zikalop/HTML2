@@ -3,8 +3,12 @@
     max-height: 350px;
     height: auto;
     position: static;
-    float: left;
-    /*padding-left: 105.383px;*/
+}
+table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
 }
 img{
     max-width: 150px;
@@ -13,6 +17,15 @@ img{
 .soc{
     text-align: center;
 }
-/*.n1{
-    padding-left: 529px;
-}*/
+.KObraz2{
+    max-width: 500px;
+    max-height: 350px;
+    opacity: 0;
+    pointer-events: none;
+}
+.flexparent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
