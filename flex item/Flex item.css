@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.upLine{
+    display: flex;
+    flex-direction: row;
+}
+.upLine p:nth-child(1) {
+    background-color: blue;
+}
+.upLine p:nth-child(2) {
+    background-color: green;
+}
+.upLine p:nth-child(3) {
+    background-color: yellow;
+}
+
+
+.dwLine{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 50px;
+}
+.dwLine p:nth-child(1) {
+    background-color: yellow;
+}
+.dwLine p:nth-child(2) {
+    background-color: green;
+}
+.dwLine p:nth-child(3) {
+    background-color: blue;
+}
+
+
+.Line{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.Line p:nth-child(1){
+ background-color: blue;
+ padding-right: 800px;
+}
+.Line p:nth-child(2){
+    background-color: green;
+    padding-right: 500px;
+}
+.Line p:nth-child(3){
+    background-color: yellow;
+    padding-right: 341px;
+}
+
+
+#other{
+    background-color: gray;
+}
+p{
+    padding: 20px;
+    margin: 0;
+    color:white;
+}
+
+
+
