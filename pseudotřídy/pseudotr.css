@@ -33,10 +33,21 @@
     }
 }
 .cv4{
-    table{
-        
+    p{
+        display: inline-block;
         margin: 0px;
         padding: 20px;
     }
-    
+    tr:first-child{
+        background-color: blue;
+    }
+    tr:last-child{
+        background-color: red;
+    }
+}
+.cv5{
+    color: red;
+    ol li:not(li.special){
+        color: green;
+    }
 }
