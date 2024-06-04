@@ -1,0 +1,23 @@
+#a{
+    background-color: aqua;
+}
+#b{
+background-color: blue;
+}
+#c{
+    background-color: brown;
+}
+#d{
+    background-color: lightcoral;
+}
+h1,li{
+    font-size: 25px;
+    font-family: fantasy;
+}
+nav{
+    background-color: brown;
+}
+ul{
+    list-style: none;
+}
+ 
