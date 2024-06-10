@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+  margin: 0px;
+  padding: 0px;
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    position: relative;
+    left: 10px;
+}
+nav{
+    position: sticky;
+    top: 0;
+    background-color: grey;
+    a{
+        display: inline-block;
+    }
+}
+div{
+    display: flex;
+    
+    img{
+        height: 500px;
+        width: 500px;
+    }  
+}
